@@ -40,9 +40,3 @@ if user_input > 0 and user_input < 61:
 else:
   print("Invalid input number")
 
-
-# In[ ]:
-
-
-
-
